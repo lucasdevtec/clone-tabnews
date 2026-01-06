@@ -1,0 +1,24 @@
+{
+	"name": "clone-tabnews",
+	"version": "0.0.1",
+	"description": "Um clone com coisas a mais para me aprofundar na programação.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/lucasdevtec/clone-tabnews.git"
+	},
+	"author": "Lucas Oliveira",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/lucasdevtec/clone-tabnews/issues"
+	},
+	"homepage": "https://github.com/lucasdevtec/clone-tabnews#readme",
+	"dependencies": {
+		"next": "^13.1.6",
+		"react": "^18.2.0",
+		"react-dom": "^18.2.0"
+	}
+}
